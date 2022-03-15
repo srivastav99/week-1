@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultiThread-Runnable.java/MultiThread-Runnable.java.iml" filepath="$PROJECT_DIR$/MultiThread-Runnable.java/MultiThread-Runnable.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" filepath="$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyThread.java/MyThread.java.iml" filepath="$PROJECT_DIR$/MyThread.java/MyThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java intern.iml" filepath="$PROJECT_DIR$/.idea/java intern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mythread-runnable.java/mythread-runnable.java.iml" filepath="$PROJECT_DIR$/mythread-runnable.java/mythread-runnable.java.iml" />
