@@ -1,7 +1,3 @@
-package test;
-
-public class com {
-}
 public class RunnableThread implements Runnable{
     public static void main(String[] args) {
         Runnable runnable=new RunnableThread();
@@ -18,6 +14,7 @@ public class RunnableThread implements Runnable{
     }
     @Override
     public void run(){
-        System.out.println("Thread");
+        System.out.println("Hello India");
     }
+
 }
