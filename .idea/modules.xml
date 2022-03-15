@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyThread.java/MyThread.java.iml" filepath="$PROJECT_DIR$/MyThread.java/MyThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java intern.iml" filepath="$PROJECT_DIR$/.idea/java intern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythread-runnable.java/mythread-runnable.java.iml" filepath="$PROJECT_DIR$/mythread-runnable.java/mythread-runnable.java.iml" />
     </modules>
   </component>
 </project>
