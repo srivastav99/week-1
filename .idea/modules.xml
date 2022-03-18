@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" filepath="$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyThread.java/MyThread.java.iml" filepath="$PROJECT_DIR$/MyThread.java/MyThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
