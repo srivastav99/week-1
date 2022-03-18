@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" filepath="$PROJECT_DIR$/MultiThread.java/MultiThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyThread.java/MyThread.java.iml" filepath="$PROJECT_DIR$/MyThread.java/MyThread.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadPoolExample.java/ThreadPoolExample.java.iml" filepath="$PROJECT_DIR$/ThreadPoolExample.java/ThreadPoolExample.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java intern.iml" filepath="$PROJECT_DIR$/.idea/java intern.iml" />
